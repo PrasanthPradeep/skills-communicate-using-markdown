@@ -14,3 +14,10 @@
 # Now Images
 
 ![Image of Yaktocat with white background](https://github.com/PrasanthPradeep/skills-communicate-using-markdown/assets/78849206/5c19fbb0-b926-4b1e-968e-83d0f3dfaa58)
+
+# Now Code
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
